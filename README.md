@@ -22,7 +22,33 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div>
-
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<li>
+<b>Name:</b> Lisa</li>
+<li>
+<b>Fursona:</b> Female Snow Fox > ~ <
+</li>
+<li>
+<b>Loves:</b> you! and donuts and games maybe -///-
+</li>
+<li>
+<b>Gender:</b> man
+</li>
+<li>
+<b>Hobbys:</b> Web Development
+</li>
+<li>
+<b>Working @:</b> Intave Anticheat | snens.team
+</li>
+<br>
+<p><b>     Thanks fow weading this onyee-san<br>
+                  verwy cuwute of chu</b></p>
+</div>
+<div>
+  
+  
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerMac&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerMac&langs_count=8&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
