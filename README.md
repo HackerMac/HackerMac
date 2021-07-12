@@ -1,19 +1,3 @@
-### Hi there 👋
-
-
-**HackerMac/HackerMac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <body>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
@@ -25,30 +9,33 @@ Here are some ideas to get you started:
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 <li>
-<b>Name:</b> Lisa</li>
-<li>
-<b>Fursona:</b> Female Snow Fox > ~ <
+  <b>姓名:</b> MINGKU 
 </li>
 <li>
-<b>Loves:</b> you! and donuts and games maybe -///-
+  <b>爱好:</b> 旅游，游泳，coding
 </li>
 <li>
-<b>Gender:</b> man
+  <b>性别:</b> 男
 </li>
 <li>
-<b>Hobbys:</b> Web Development
+  <b>技能:</b> 后台开发，嵌入式开发
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat | snens.team
+  <b>工作:</b> 学生
+</li>
+<li>
+  <b>学校:</b> UESTC
 </li>
 <br>
-<p><b>     Thanks fow weading this onyee-san<br>
-                  verwy cuwute of chu</b></p>
+
 </div>
 <div>
-  
-  
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerMac&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerMac&langs_count=8&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+  <b></br>
+  <b></br>
+  <b></br>
+  <b></br>
+  <b></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerMac&langs_count=8&hide=javascript,html,css" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=HackerMac&show_icons=true&theme=cobalt" align="right">
+
 
