@@ -13,18 +13,18 @@
 # Main Skills #
 
 
-<a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
-<a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
-<a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
-<a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
-<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
-<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
+<a href="https://devdocs.io/cpp/"><img src="./assets/ISO_C++.svg" alt="C++" height="100" title="C++ documentation"></a>
+<a href="https://devdocs.io/c/"><img src="./assets/c.svg" alt="C" height="100" title="C documentation"></a>
 <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
+<a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
+<a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a>
+<a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
+<a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
+<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
+<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
 
 
 # 💻 My favorite tools and technologies
@@ -222,8 +222,7 @@ To contact me.
     </td>
     <td>    
       <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
-      https://trademarktoday-nextjs.vercel.app <br/>
-      https://trademarktoday-nextjs-rbxk.vercel.app
+      https://blog.sakuramk.cn <br/>
     </td>
   </tr>
 </table>
@@ -252,7 +251,7 @@ To contact me.
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
-✨ Preferred PHP frameworks ✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii
+<!-- ✨ Preferred PHP frameworks ✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii
        
 ✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
           
@@ -266,7 +265,7 @@ To contact me.
          
 ✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy
          
-✨ Payment gateway integration  ✔Stripe, ✔PayPal
+✨ Payment gateway integration  ✔Stripe, ✔PayPal -->
         
 
 
@@ -367,13 +366,13 @@ To contact me.
 
 <br/>  
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=seniorcoder72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=seniorcoder72&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -382,8 +381,29 @@ To contact me.
 ![](https://github-contributor-stats.vercel.app/api?username=seniorcoder72&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
 <br/>  
 
-## Theme & Dashboard
-<a href="https://github.com/seniorcoder72/Kanban-React" target="_blank">![KanbanReact](https://raw.githubusercontent.com/seniorcoder72/Kanban-React/master/img/img1.jpg?raw=true)</a>
+<p align="center">
+🔱 &nbsp;Pet Projects &nbsp;
+</p>
+
+| <img alt="Portal" src="https://github.com/MisterPrada/misterprada/assets/8146111/eb445650-c662-412f-8cf5-662b76c27057"  /> | <img alt="Galaxy" src="https://github.com/MisterPrada/misterprada/assets/8146111/64cf718c-e1ae-44a6-bd6c-69ca2b55ac11"  /> | <img alt="Itachi" src="https://github.com/MisterPrada/misterprada/assets/8146111/445f5d11-b672-46f5-a0dd-7635b4787efc"  /> |
+|:-----:|:---------:|:------:|
+| <a href="https://portal.misterprada.com">Portal Live</a> |  <a href="https://misterprada.com">Galaxy Live</a>    | <a href="https://itachi.misterprada.com">Itachi Live</a> |
+
+
+<div align="center">
+
+  | <img alt="Predator" width="77%" src="https://github.com/MisterPrada/misterprada/assets/8146111/e4021b6c-28e3-4f21-8227-1f9617a17945"  /> | <img alt="Sound Orb" src="https://github.com/MisterPrada/misterprada/assets/8146111/68821637-ccd9-480f-bb76-5834c3a8586d"  /> | <img alt="Strokes" src="https://github.com/MisterPrada/misterprada/assets/8146111/e0c31048-9ef4-4523-bf08-3966cb8001d0"  /> |
+  |:-----:|:------:|:-----:|
+  | <a href="https://predator.misterprada.com">Predator Live</a> | <a href="https://orb.misterprada.com">Orb Live</a> | <a href="https://strokes.misterprada.com">Strokes Live</a> |
+
+</div>
+
+<div align="center">
+
+  | <img alt="Hell Portal Shader" src="https://github.com/MisterPrada/misterprada/assets/8146111/e4164d68-259b-4a68-a98c-dea8392091cf"  />
+  |:-----:|
+  | <a href="https://www.shadertoy.com/view/cdVyWG">Live + Code</a> |
+
+</div>
